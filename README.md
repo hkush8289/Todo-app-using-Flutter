@@ -1,6 +1,6 @@
-# calculator
+# todo
 
-A calculator application.
+A todo application using Flutter.
 
 ## Getting Started
 
